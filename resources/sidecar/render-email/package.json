@@ -1,0 +1,22 @@
+{
+  "name": "render-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.10"
+  },
+  "dependencies": {
+    "@react-email/components": "^0.0.16",
+    "@react-email/render": "^0.0.12",
+    "react": "^18.2.0"
+  }
+}
